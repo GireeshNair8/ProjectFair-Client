@@ -1,0 +1,1 @@
+export const BASE_URL= 'https://project-fair-2ds6.onrender.com'
